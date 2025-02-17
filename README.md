@@ -21,3 +21,9 @@
 - Personas Desarrolladoras del Proyecto: En Construccion.
 
 - Licencia: En Construccion.
+
+  
+
+Para ejecutar el sistema, debes poner:
+
+- ```npm install react````
